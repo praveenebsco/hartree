@@ -13,7 +13,7 @@ class LandingPage extends Component {
               className="landing-img"
             />
             <div className="banner-text">
-              <h1>Hartree</h1>
+              <h1>HARTREE</h1>
               <hr />
               <p>
                 The hartree, also known as the Hartree energy, is the unit of
