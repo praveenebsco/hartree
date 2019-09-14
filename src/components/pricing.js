@@ -9,8 +9,7 @@ import {
   CardText,
   CardActions,
   Button,
-  CardMenu,
-  IconButon
+  CardMenu
 } from "react-mdl";
 
 class Pricing extends Component {

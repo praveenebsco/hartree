@@ -15,7 +15,6 @@ class App extends Component {
             <Navigation>
               <Link to="/login">Login</Link>
               <Link to="/pricing">Pricing</Link>
-              <Link to="/faq">FAQ</Link>
               <Link to="/contactus">Contact Us</Link>
             </Navigation>
           </Header>
@@ -23,7 +22,6 @@ class App extends Component {
             <Navigation>
               <Link to="/login">Login</Link>
               <Link to="/pricing">Pricing</Link>
-              <Link to="/faq">FAQ</Link>
               <Link to="/contactus">Contact Us</Link>
             </Navigation>
           </Drawer>
